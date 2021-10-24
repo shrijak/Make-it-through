@@ -7,16 +7,12 @@
 |:--:| 
 | *Home Screen* |
 | ![Normal Gameplay on Road](screenshots/normal.jpg) |
-|:--:| 
 | *Gameplay* |
 | ![Normal Gameplay on Water](screenshots/water.jpg) |
-|:--:| 
 | *Gameplay* |
 | ![Accident on Road](screenshots/accident.jpg) |
-|:--:| 
 | *Accident* |
 | ![Gameover](screenshots/gameover.jpg) |
-|:--:| 
 | *Game Over* |
 
 ## How to run?
