@@ -3,7 +3,12 @@
 ## For graphics and user interface SFML is used.
 
 ## Screenshot of the game
-- **left**
+![Home Screen](screenshots/home.jpg)
+![Normal Gameplay on Road](screenshots/normal.jpg)
+![Normal Gameplay on Water](screenshots/water.jpg)
+![Accident on Road](screenshots/accident.jpg)
+![Gameover](screenshots/gameover.jpg)
+
 
 ## How to run?
 - **Clone the repository** ```git clone https://github.com/shrijak/make-it-through/```
