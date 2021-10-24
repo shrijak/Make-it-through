@@ -2,11 +2,16 @@
 ## This game is a classic frogger game made using C++.
 ## For graphics and user interface SFML is used.
 
-## Screenshot of the game
+## Screenshots of the game
+- **Home Screen**
 ![Home Screen](screenshots/home.jpg)
+- **Gameplay**
 ![Normal Gameplay on Road](screenshots/normal.jpg)
+
 ![Normal Gameplay on Water](screenshots/water.jpg)
+- **Accident**
 ![Accident on Road](screenshots/accident.jpg)
+- **Game Over**
 ![Gameover](screenshots/gameover.jpg)
 
 
